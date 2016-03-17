@@ -1,5 +1,5 @@
 {
-  "name": "express-mysql",
+  "name": "node-express-mysql",
   "version": "1.0.0",
   "description": "Thank for trying out this NPM module. The status of the project is stable. You can use it for you own project.\r If you have any suggestion and idea, you welcome to push request. I'm going to continue improve it.\r Any pull-request is welcome. Even changes to the screenshots and improve the English.",
   "main": "index.js",
@@ -16,10 +16,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aminag/express-mysql.git"
+    "url": "git+https://github.com/aminag/node-express-mysql.git"
   },
   "bugs": {
-    "url": "https://github.com/aminag/express-mysql/issues"
+    "url": "https://github.com/aminag/node-express-mysql/issues"
   },
-  "homepage": "https://github.com/aminag/express-mysql#readme"
+  "homepage": "https://github.com/aminag/node-express-mysql#readme"
 }

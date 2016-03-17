@@ -10,7 +10,7 @@ Any pull-request is welcome. Even changes to the screenshots and improve the Eng
 
 ## How to install it 
 
-	npm i -s express-mysql
+	npm i -s node-express-mysql
 
 	var em=require('express-mysql')
 	app.use('/ourdb',em({
