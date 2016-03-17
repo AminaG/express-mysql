@@ -12,7 +12,7 @@ Any pull-request is welcome. Even changes to the screenshots and improve the Eng
 
 	npm i -s node-express-mysql
 
-	var em=require('express-mysql')
+	var em=require('node-express-mysql')
 	app.use('/ourdb',em({
 		"host":"db.example.io",
 		"database":"example",
